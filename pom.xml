@@ -495,4 +495,19 @@
             </reporting>
         </profile>
     </profiles>
+    <distributionManagement>
+
+    <repository>
+       <id>releases</id>
+       <name>Releases</name>
+       <url>http://52.55.114.170:8081/repository/Releases/</url>
+    </repository>
+
+     <snapshotRepository>
+           <id>snapshots<id>
+           <name>Snapshots</name>
+           <url>http://52.55.114.170:8081/repository/Snapshots/</url>
+               </snapshotRepository>
+     </distributionManagement>
+    
 </project>
