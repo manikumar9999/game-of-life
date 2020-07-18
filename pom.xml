@@ -507,7 +507,7 @@
            <id>snapshots<id>
            <name>Snapshots</name>
            <url>http://52.55.114.170:8081/repository/Snapshots/</url>
-               </snapshotRepository>
+     </snapshotRepository>
      </distributionManagement>
     
 </project>
