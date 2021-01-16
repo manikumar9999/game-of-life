@@ -506,7 +506,7 @@
            <name>snapshots</name>
            <url>http://34.203.190.1:8081/repository/demo_maven/snapshots/</url>
        </snapshotRepository>
-      </distributionManagemengt>
+      </distributionManagement>
       </profile>
     </profiles>
   </project>
