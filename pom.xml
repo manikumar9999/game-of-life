@@ -502,7 +502,7 @@
             <url>http://34.203.190.1:8081/repository/demo_maven/</url>
         </repository>
        <snapshotrepository>
-           <id>demo_maven</id>
+           <id>snapshots</id>
            <name>snapshots</name>
            <url>http://34.203.190.1:8081/repository/demo_maven/snapshots/</url>
        </snapshotrepository>
