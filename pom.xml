@@ -495,4 +495,16 @@
             </reporting>
         </profile>
     </profiles>
-</project>
+    <distributionmanagement>
+        <repository>
+            <id>demo_maven<id>
+            <name>Release</name>
+            <url>http://34.203.190.1:8081/repository/demo_maven/</url>
+        </repository>
+       <snapshotrepository>
+           <id>demo_maven</id>
+           <name>snapshots</name>
+           <url>http://34.203.190.1:8081/repository/demo_maven/snapshots/</url>
+       </snapshotrepository>
+      </distributionmanagemengt>
+  </project>
