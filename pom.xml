@@ -497,7 +497,7 @@
     <profile>
     <distributionManagement>
         <repository>
-            <id>demo_maven<id>
+            <id>demo_maven</id>
             <name>Release</name>
             <url>http://34.203.190.1:8081/repository/demo_maven/</url>
         </repository>
