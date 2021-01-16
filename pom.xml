@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     <profile>
-    <distributionmanagement>
+    <distributionManagement>
         <repository>
             <id>demo_maven<id>
             <name>Release</name>
@@ -506,7 +506,7 @@
            <name>snapshots</name>
            <url>http://34.203.190.1:8081/repository/demo_maven/snapshots/</url>
        </snapshotrepository>
-      </distributionmanagemengt>
+      </distributionManagemengt>
       </profile>
     </profiles>
   </project>
