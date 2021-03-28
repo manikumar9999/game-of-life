@@ -509,7 +509,11 @@
            <id>snapshots</id>
            <name>snapshots</name>
            <url>http://34.203.190.1:8081/repository/demo_maven/snapshots/</url>
-       </snapshotRepository>
+           </snapshotRepository>
+        <repository>
+            <id>tomcatid</id>
+            <url>http://100.26.104.72:8082/</url>
+        </repository>
       </distributionManagement>
       </profile>
     </profiles>
